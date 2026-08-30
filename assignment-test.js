@@ -1,0 +1,1 @@
+console.log("Session 12 Semgrep SAST Assignment");
